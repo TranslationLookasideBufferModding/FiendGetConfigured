@@ -1,0 +1,10 @@
+{
+  "name": "FiendGetConfigured",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/TranslationLookasideBufferModding/FiendGetConfigured.git",
+  "description": "Configure AuroraBytes' Fiend: damage, speed, visibility, target memory and abilities. Balanced defaults; install the same version and config on all players.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "AuroraBytes-The_Fiend-1.1.6"
+  ]
+}

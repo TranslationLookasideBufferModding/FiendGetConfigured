@@ -1,0 +1,12 @@
+local.settings.json
+artifacts/
+bin/
+obj/
+.vs/
+tests/UnityHarness/Library/
+tests/UnityHarness/Temp/
+tests/UnityHarness/Logs/
+tests/UnityHarness/UserSettings/
+tests/UnityHarness/obj/
+*.csproj.user
+*.suo
